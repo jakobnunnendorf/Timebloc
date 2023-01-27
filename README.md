@@ -7,5 +7,5 @@ This NodeJS app is supposed to create a custom interval work schedule and export
   - v1.1: Change event name
   - v1.2: Add feature specify date
   - v1.3: Add feature specify start time
-  - v1.4: Add feature specify end time
+  - v1.4: Add feature specify duration in Minutes
 - Test Version 1: console.log the calendar event and check output
