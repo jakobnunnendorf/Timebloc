@@ -1,3 +1,5 @@
+const logs = false; // set to true to enable console logs
+
 // We use the ical-generator library to generate the ics file
 const ical = require('ical-generator'); // imports the ical-generator library
 
@@ -35,4 +37,4 @@ calendar.createEvent({
     url: '',
 });
 
-console.log(calendar.toString());
+if(logs) console.log(calendar.toString());
