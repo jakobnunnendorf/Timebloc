@@ -9,3 +9,8 @@ This NodeJS app is supposed to create a custom interval work schedule and export
   - v1.3: Add feature specify start time
   - v1.4: Add feature specify duration in Minutes
 - Test Version 1: console.log the calendar event and check output
+
+- Version 2: Export as ics file
+  - v2.0: Save to current directory
+  - v2.1: Specify path where to save
+- Test Version 2: Export and see if i can import to calendar
