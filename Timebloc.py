@@ -1,6 +1,9 @@
+# check where ics is installed and select corresponding python interpreter
+
 import os
 import datetime
-from ics import Calendar, Event #pip install ics
+from ics import Calendar
+from ics import Event #pip install ics
 
 # Get input from user
 date_str = input("Enter target date (DD-MM): ")
