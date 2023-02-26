@@ -14,3 +14,11 @@ def return_current_timezone_utc():
 
 # print(return_current_timezone())
 # print(return_current_timezone_utc())
+# print(location)
+
+from geopy.geocoders import Nominatim
+
+coordinates = str(location['lat'])+","+str(location['lon'])
+geolocator = Nominatim(user_agent="test")
+position = geolocator.reverse(coordinates)
+# print(position.address)
