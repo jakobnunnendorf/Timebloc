@@ -50,7 +50,7 @@ def create_event(summary_str, DTSTART_str, DTEND_str):
     line11 = "ACTION:NONE\n"
     line12 = "TRIGGER;VALUE=DATE-TIME:19760401T005545Z\n"
     line13 = "END:VALARM\n"
-    line14 = "END:VEVENT\n"
+    line14 = "END:VEVENT\n\n"
 
     event = line1 + line2 + dtend + dtstamp + dtstart + last_modified + sequence + summary + transp + uid + line10 + line11 + line12 + line13 + line14
     return event
