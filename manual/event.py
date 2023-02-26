@@ -28,7 +28,7 @@ import pytz
 
 # create_event takes summary_str (title of the event), end time (YYYYMMDDTHHMMSS) and start time (YYYYMMDDTHHMMSS)
 
-def create_event(summary_str, DTEND_str, DTSTART_str):
+def create_event(summary_str, DTSTART_str, DTEND_str):
     current_UTC = datetime.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ") #returns the current time in UTC in the format YYYYMMDDTHHMMSSZ
     DTSTAMP_str = current_UTC
     LAST_MODIFIED_str = current_UTC
@@ -42,7 +42,7 @@ def create_event(summary_str, DTEND_str, DTSTART_str):
     dtstamp = "DTSTAMP:" + DTSTAMP_str + "\n" # current time in UTC in the format YYYYMMDDTHHMMSSZ
     dtstart = "DTSTART;TZID=" + TZID_str + ":" + DTSTART_str + "\n" # current time zone and input start time (YYYYMMDDTHHMMSS)
     last_modified = "LAST-MODIFIED:" + LAST_MODIFIED_str + "\n" # current time in UTC in the format YYYYMMDDTHHMMSSZ
-    sequence = "SEQUENCE:0"
+    sequence = "SEQUENCE:0\n"
     summary = "SUMMARY:" + summary_str + "\n" # input title of event
     transp = "TRANSP:OPAQUE\n"
     uid = "UID:" + UID_str + "\n" # input unique identifier (randomly generated)
@@ -56,4 +56,4 @@ def create_event(summary_str, DTEND_str, DTSTART_str):
     return event
 
 # example call
-print(create_event("TB10", "20230226T201000", "20230226T194500"))
+# print(create_event("TB10", "20230226T201000", "20230226T194500"))

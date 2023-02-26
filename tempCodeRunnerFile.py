@@ -7,4 +7,4 @@ location = json.loads(response.content)
 def return_current_timezone():
     return location['timezone']
 
-# print(return_current_timezone())
+print(return_current_timezone())
