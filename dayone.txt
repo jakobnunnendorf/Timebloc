@@ -1,4 +1,4 @@
-Date:    1 January 2023 at 08:00:01 AM GMT+2
+Date:    2 March 2023 at 12:30:01 AM GMT+2
 
 
 TB1
@@ -9,7 +9,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 08:30:01 AM GMT+2
+Date:    2 March 2023 at 01:00:01 AM GMT+2
 
 
 TB2
@@ -20,7 +20,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 09:00:01 AM GMT+2
+Date:    2 March 2023 at 01:30:01 AM GMT+2
 
 
 TB3
@@ -31,7 +31,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 09:30:01 AM GMT+2
+Date:    2 March 2023 at 02:00:01 AM GMT+2
 
 
 TB4
@@ -42,22 +42,18 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 10:00:01 AM GMT+2
+Date:    2 March 2023 at 02:30:01 AM GMT+2
 
 
 WB1
 TLDR:
 <br>
-<br>
 Results:
-<br>
 <br>
 Comments:
 <br>
-<br>
 
-
-Date:    1 January 2023 at 10:15:01 AM GMT+2
+Date:    2 March 2023 at 02:45:01 AM GMT+2
 
 
 TB5
@@ -68,7 +64,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 10:45:01 AM GMT+2
+Date:    2 March 2023 at 03:15:01 AM GMT+2
 
 
 TB6
@@ -79,7 +75,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 11:15:01 AM GMT+2
+Date:    2 March 2023 at 03:45:01 AM GMT+2
 
 
 TB7
@@ -90,7 +86,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 11:45:01 AM GMT+2
+Date:    2 March 2023 at 04:15:01 AM GMT+2
 
 
 TB8
@@ -101,22 +97,18 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 12:15:01 PM GMT+2
+Date:    2 March 2023 at 04:45:01 AM GMT+2
 
 
 WB2
 TLDR:
 <br>
-<br>
 Results:
-<br>
 <br>
 Comments:
 <br>
-<br>
 
-
-Date:    1 January 2023 at 12:30:01 PM GMT+2
+Date:    2 March 2023 at 05:00:01 AM GMT+2
 
 
 TB9
@@ -127,7 +119,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 01:00:01 PM GMT+2
+Date:    2 March 2023 at 05:30:01 AM GMT+2
 
 
 TB10
@@ -138,7 +130,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 01:30:01 PM GMT+2
+Date:    2 March 2023 at 06:00:01 AM GMT+2
 
 
 TB11
@@ -149,7 +141,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 02:00:01 PM GMT+2
+Date:    2 March 2023 at 06:30:01 AM GMT+2
 
 
 TB12
@@ -160,22 +152,18 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 02:30:01 PM GMT+2
+Date:    2 March 2023 at 07:00:01 AM GMT+2
 
 
 WB3
 TLDR:
 <br>
-<br>
 Results:
-<br>
 <br>
 Comments:
 <br>
-<br>
 
-
-Date:    1 January 2023 at 02:45:01 PM GMT+2
+Date:    2 March 2023 at 07:15:01 AM GMT+2
 
 
 TB13
@@ -186,7 +174,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 03:15:01 PM GMT+2
+Date:    2 March 2023 at 07:45:01 AM GMT+2
 
 
 TB14
@@ -197,7 +185,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 03:45:01 PM GMT+2
+Date:    2 March 2023 at 08:15:01 AM GMT+2
 
 
 TB15
@@ -208,7 +196,7 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 04:15:01 PM GMT+2
+Date:    2 March 2023 at 08:45:01 AM GMT+2
 
 
 TB16
@@ -219,18 +207,300 @@ Results:
 Comments:
 <br>
 
-Date:    1 January 2023 at 04:45:01 PM GMT+2
+Date:    2 March 2023 at 09:15:01 AM GMT+2
 
 
 WB4
 TLDR:
 <br>
-<br>
 Results:
-<br>
 <br>
 Comments:
 <br>
+
+Date:    2 March 2023 at 09:30:01 AM GMT+2
+
+
+TB17
+TLDR:
+<br>
+Results:
+<br>
+Comments:
 <br>
 
+Date:    2 March 2023 at 10:00:01 AM GMT+2
+
+
+TB18
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 10:30:01 AM GMT+2
+
+
+TB19
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 11:00:01 AM GMT+2
+
+
+TB20
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 11:30:01 AM GMT+2
+
+
+WB5
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 11:45:01 AM GMT+2
+
+
+TB21
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 12:15:01 PM GMT+2
+
+
+TB22
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 12:45:01 PM GMT+2
+
+
+TB23
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 01:15:01 PM GMT+2
+
+
+TB24
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 01:45:01 PM GMT+2
+
+
+WB6
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 02:00:01 PM GMT+2
+
+
+TB25
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 02:30:01 PM GMT+2
+
+
+TB26
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 03:00:01 PM GMT+2
+
+
+TB27
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 03:30:01 PM GMT+2
+
+
+TB28
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 04:00:01 PM GMT+2
+
+
+WB7
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 04:15:01 PM GMT+2
+
+
+TB29
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 04:45:01 PM GMT+2
+
+
+TB30
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 05:15:01 PM GMT+2
+
+
+TB31
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 05:45:01 PM GMT+2
+
+
+TB32
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 06:15:01 PM GMT+2
+
+
+WB8
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 06:30:01 PM GMT+2
+
+
+TB33
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 07:00:01 PM GMT+2
+
+
+TB34
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 07:30:01 PM GMT+2
+
+
+TB35
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 08:00:01 PM GMT+2
+
+
+TB36
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 08:30:01 PM GMT+2
+
+
+WB9
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
+
+Date:    2 March 2023 at 09:00:01 PM GMT+2
+
+
+Daily summary 2 March 2023
+TLDR:
+<br>
+Results:
+<br>
+Comments:
+<br>
 

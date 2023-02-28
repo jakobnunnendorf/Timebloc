@@ -1,6 +1,6 @@
 import datetime
 
-test = True
+test = False
 
 if test:
     date_str = "01-01"

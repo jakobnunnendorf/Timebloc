@@ -18,10 +18,15 @@ while current_time + interval_duration <= end_time:
     if n % long_break_interval == 0:
         entry += "Date:    " + current_time.strftime("%-d %B %Y at %I:%M:%S %p") + " GMT" + return_current_timezone_utc().replace("0","") + "\n\n\n"
         entry += "WB" + str(int(n/4)) + "\n"
-        entry += "TLDR:\n<br>\n<br>\nResults:\n<br>\n<br>\nComments:\n<br>\n<br>\n\n\n"
+        entry += "TLDR:\n<br>\nResults:\n<br>\nComments:\n<br>\n\n"
         current_time += long_break_duration
     n += 1
     text_file += entry
 
-print(text_file)
+current_time += long_break_duration
+text_file += "Date:    " + current_time.strftime("%-d %B %Y at %I:%M:%S %p") + " GMT" + return_current_timezone_utc().replace("0","") + "\n\n\n"
+text_file += "Daily summary " + current_time.strftime("%-d %B %Y") + "\n"
+text_file += "TLDR:\n<br>\nResults:\n<br>\nComments:\n<br>\n\n"
+
+# print(text_file)
 
