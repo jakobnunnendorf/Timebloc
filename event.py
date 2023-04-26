@@ -4,16 +4,21 @@ import datetime
 import pytz
 # example:
 
-# SUMMARY:TB10
-# TRANSP:OPAQUE
-# UID:e91d0910-d0ea-4594-bc4b-20c258dab88d@e91d.org
-# END:VEVENT
 # BEGIN:VEVENT
-# DTEND;TZID=Africa/Johannesburg:20230226T201000
-# DTSTAMP:20230226T093135Z
-# DTSTART;TZID=Africa/Johannesburg:20230226T194500
-# LAST-MODIFIED:20230226T093055Z
-# SEQUENCE:1
+# CREATED:20230426T031439Z
+# DTEND;TZID=Asia/Singapore:20230426T112501
+# DTSTAMP:20230426T031439Z
+# DTSTART;TZID=Asia/Singapore:20230426T110001
+# LAST-MODIFIED:20230426T031439Z
+# SEQUENCE:0
+# SUMMARY:TB1
+# TRANSP:OPAQUE
+# UID:TB1-20230426T031439Z@qtvn-b8iy-5xl0-13bb
+# BEGIN:VALARM
+# ACTION:ALERT
+# TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+# END:VALARM
+# END:VEVENT
 
 # example variables
 # summary_str = "TB10"
@@ -47,8 +52,8 @@ def create_event(summary_str, DTSTART_str, DTEND_str):
     transp = "TRANSP:OPAQUE\n"
     uid = "UID:" + UID_str + "\n" # input unique identifier (randomly generated)
     line10 = "BEGIN:VALARM\n"
-    line11 = "ACTION:NONE\n"
-    line12 = "TRIGGER;VALUE=DATE-TIME:19760401T005545Z\n"
+    line11 = "ACTION:ALERT\n"
+    line12 = "TRIGGER:PT0S\n"
     line13 = "END:VALARM\n"
     line14 = "END:VEVENT\n\n"
 
